@@ -13,3 +13,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+[![Video Demo of GAIA Sys 1.0, 1.5 and 2.0](https://img.youtube.com/vi/uAGAFfEvOMo/0.jpg)](https://www.youtube.com/watch?v=uAGAFfEvOMo)
