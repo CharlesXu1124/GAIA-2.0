@@ -1,4 +1,4 @@
-# FERM -Fire Emergency Resource Management
+# GAIA 2.0 --Visualization System for environmental monitoring and rescue operations
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
